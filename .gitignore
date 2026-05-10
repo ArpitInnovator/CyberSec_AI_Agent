@@ -1,2 +1,5 @@
 .env
 .venv
+.pdf
+.md
+__pycache__/
